@@ -1,0 +1,458 @@
+{
+    "530924": {
+        "article_date_timestamp": 1648923107.0,
+        "article_title": "Anonymous взломали сервера \"ЗАО РПЦ\"",
+        "article_url": "https://www.securitylab.ru/news/530924.php",
+        "article_desc": "Всего украдено 40 ГБ данных"
+    },
+    "530921": {
+        "article_date_timestamp": 1648883394.0,
+        "article_title": "Минцифры предложило улучшить условия льготной ипотеки для ИТ-специалистов",
+        "article_url": "https://www.securitylab.ru/news/530921.php",
+        "article_desc": "порог дохода для получения льготной ипотеки может быть снижен на 50 тыс. руб."
+    },
+    "530919": {
+        "article_date_timestamp": 1648879443.0,
+        "article_title": "Роскомнадзор угрожает Википедии штрафом за неудаление недостоверной информации о военной операции",
+        "article_url": "https://www.securitylab.ru/news/530919.php",
+        "article_desc": "Штраф может составить до 4 млн руб."
+    },
+    "530913": {
+        "article_date_timestamp": 1648819455.0,
+        "article_title": "Компания Ubiquiti хочет засудить Брайана Кребса за статью об утечке ее данных",
+        "article_url": "https://www.securitylab.ru/news/530913.php",
+        "article_desc": "Согласно иску, журналист умышленно ввел в заблуждение своих читателей об утечке данных."
+    },
+    "530906": {
+        "article_date_timestamp": 1648805133.0,
+        "article_title": "Группировка Hive взломала сети медицинской организации Partnership HealthPlan в США",
+        "article_url": "https://www.securitylab.ru/news/530906.php",
+        "article_desc": "Вымогатели применили новую технику, получившую название IPfuscation."
+    },
+    "530929": {
+        "article_date_timestamp": 1649007906.0,
+        "article_title": "Лендинговый проект Inverse Finance потерял 15.000.000$ в результате хакерской атаки",
+        "article_url": "https://www.securitylab.ru/news/530929.php",
+        "article_desc": "Это третья многомиллионная криптоатака за последние дни"
+    },
+    "530928": {
+        "article_date_timestamp": 1649007045.0,
+        "article_title": "Критическая уязвимость в GitLab позволяет злоумышленникам завладеть учетными записями",
+        "article_url": "https://www.securitylab.ru/news/530928.php",
+        "article_desc": "В сборках был обнаружен жестко запрограммированный пароль"
+    },
+    "530927": {
+        "article_date_timestamp": 1649006519.0,
+        "article_title": "Эксперты обнаружили в открытом доступе сервер с содержимым СМС-сообщений от сервисов и банков",
+        "article_url": "https://www.securitylab.ru/news/530927.php",
+        "article_desc": "Среди отправителей - Google, Тинькофф, Аэрофлот, Юла, Microsoft и др."
+    },
+    "530926": {
+        "article_date_timestamp": 1648972427.0,
+        "article_title": "Новое шпионское ПО для Android записывает аудио и отслеживает местоположение",
+        "article_url": "https://www.securitylab.ru/news/530926.php",
+        "article_desc": "Шпионское ПО предположительно связано с хакерской группировкой Turla."
+    },
+    "530925": {
+        "article_date_timestamp": 1648924360.0,
+        "article_title": "Хакеры взломали Discored-сервер Bored Ape Yacht Club",
+        "article_url": "https://www.securitylab.ru/news/530925.php",
+        "article_desc": "Взлом мог быть произведен с помощью Ticket Tool — бота в Discord, автоматически генерирующего запросы в службу поддержки."
+    },
+    "530923": {
+        "article_date_timestamp": 1648891839.0,
+        "article_title": "Хакеры взломали сайт компании \"Сухой\"",
+        "article_url": "https://www.securitylab.ru/news/530923.php",
+        "article_desc": "Гендиректор ОАК Юрий Слюсарь назвал хакерскую атаку примером информационной войны против России."
+    },
+    "530922": {
+        "article_date_timestamp": 1648892870.0,
+        "article_title": "Исследователи использовали старый спутник для трансляции хакерской конференции",
+        "article_url": "https://www.securitylab.ru/news/530922.php",
+        "article_desc": "Отсутствие систем аутентификации и контроля может позволить хакерам перехватить контроль над спутниками."
+    },
+    "530920": {
+        "article_date_timestamp": 1648880799.0,
+        "article_title": "Испанская энергетическая компания Iberdrola пострадала от кибератаки",
+        "article_url": "https://www.securitylab.ru/news/530920.php",
+        "article_desc": "Злоумышленники получили доступ к личным данным 1,3 млн клиентов клиентов компании."
+    },
+    "530912": {
+        "article_date_timestamp": 1648817713.0,
+        "article_title": "Проект Reticulum позволит строить устойчивые сети связи, даже если весь интернет рухнет",
+        "article_url": "https://www.securitylab.ru/news/530912.php",
+        "article_desc": "Сети связи смогут строить даже люди с минимальным опытом практически из подручных средств."
+    },
+    "530918": {
+        "article_date_timestamp": 1648875705.0,
+        "article_title": "Британская полиция предъявила обвинения юным хакерам из группировки Lapsus$",
+        "article_url": "https://www.securitylab.ru/news/530918.php",
+        "article_desc": "Обвинения в деятельности хакерской группы предъявлены двум подросткам в Великобритании."
+    },
+    "530911": {
+        "article_date_timestamp": 1648817165.0,
+        "article_title": "Системы Nvidia DGX уязвимы к атакам по сторонним и скрытым каналам",
+        "article_url": "https://www.securitylab.ru/news/530911.php",
+        "article_desc": "Обнаруженные проблемы связаны с микроархитектурными ошибками и могут повлиять как на локальные, так и на удаленные системы."
+    },
+    "530964": {
+        "article_date_timestamp": 1649158722.0,
+        "article_title": "Приставы принудительно взыщут с компании Meta* около двух миллиардов рублей",
+        "article_url": "https://www.securitylab.ru/news/530964.php",
+        "article_desc": "Соответствующее дело заведено судебными приставами."
+    },
+    "530960": {
+        "article_date_timestamp": 1649154000.0,
+        "article_title": "Positive Technologies приглашает на онлайн-митап для разработчиков",
+        "article_url": "https://www.securitylab.ru/news/530960.php",
+        "article_desc": "7 апреля на онлайн-митапе эксперты компании расскажут, как выйти на новый уровень безопасной разработки."
+    },
+    "530962": {
+        "article_date_timestamp": 1649153747.0,
+        "article_title": "Власти Германии закрыли крупнейшую в даркнете торговую площадку Hydra Market",
+        "article_url": "https://www.securitylab.ru/news/530962.php",
+        "article_desc": "Правоохранители изъяли серверы Hydra Market и биткойны на сумму 23 млн евро."
+    },
+    "530961": {
+        "article_date_timestamp": 1649150802.0,
+        "article_title": "Мошенники похитили миллионы долларов у индийского банка Mahesh Bank",
+        "article_url": "https://www.securitylab.ru/news/530961.php",
+        "article_desc": "У банка не было действующей лицензии на использование межсетевого экрана и надлежащего уровня кибербезопасности."
+    },
+    "530959": {
+        "article_date_timestamp": 1649146909.0,
+        "article_title": "Производитель ветрогенераторов Nordex отключил свои IT-системы из-за кибератаки",
+        "article_url": "https://www.securitylab.ru/news/530959.php",
+        "article_desc": "IT-системы были отключены в целях предотвращения дальнейшего распространения атаки."
+    },
+    "530958": {
+        "article_date_timestamp": 1649145639.0,
+        "article_title": "Роскомнадзор обвинил «Википедию» в  «постоянных информатак на россиян»",
+        "article_url": "https://www.securitylab.ru/news/530958.php",
+        "article_desc": "Авторы размещенных на Википедии якобы дезинформируют пользователей"
+    },
+    "530957": {
+        "article_date_timestamp": 1649144353.0,
+        "article_title": "GitHub теперь автоматически блокирует коммиты с ключами API и токенами аутентификации",
+        "article_url": "https://www.securitylab.ru/news/530957.php",
+        "article_desc": "Новая возможность включает сканирование секретов в рабочий процесс разработчиков и работает с 69 типами токенов."
+    },
+    "530956": {
+        "article_date_timestamp": 1649142733.0,
+        "article_title": "Поддельная функция голосовых сообщений WhatsApp распространяет инфостилер",
+        "article_url": "https://www.securitylab.ru/news/530956.php",
+        "article_desc": "Жертвам приходят по электронной почте уведомление якобы от WhatsApp о получении нового голосового сообщения."
+    },
+    "530955": {
+        "article_date_timestamp": 1649141044.0,
+        "article_title": "Платформа MailChimp подтвердила факт взлома",
+        "article_url": "https://www.securitylab.ru/news/530955.php",
+        "article_desc": "Злоумышленники получили доступ к внутреннему инструменту техподдержки MailChimp."
+    },
+    "530954": {
+        "article_date_timestamp": 1649140055.0,
+        "article_title": "Хакеры из FIN7 активно совершенствуют свой арсенал вредоносов",
+        "article_url": "https://www.securitylab.ru/news/530954.php",
+        "article_desc": "Злоумышленники продолжают вести активную деятельность, развиваться и сотрудничать с вымогательскими группировками."
+    },
+    "530953": {
+        "article_date_timestamp": 1649136720.0,
+        "article_title": "Что такое нейроразнообразие в командах кибербезопасности?",
+        "article_url": "https://www.securitylab.ru/news/530953.php",
+        "article_desc": "По мнению специалистов, люди с нейродивергентным типом мышления могут стать ценными участниками ИБ-команд."
+    },
+    "530952": {
+        "article_date_timestamp": 1649132905.0,
+        "article_title": "Минцифры призвало отменить штраф за продажу техники без предустановленного российского ПО",
+        "article_url": "https://www.securitylab.ru/news/530952.php",
+        "article_desc": "Министерство приняло такое решение, чтобы разрешить правовую коллизию, которая возникла после легализации параллельного импорта."
+    },
+    "530951": {
+        "article_date_timestamp": 1649131965.0,
+        "article_title": "Intel анонсировала новый чип для майнинга биткойнов",
+        "article_url": "https://www.securitylab.ru/news/530951.php",
+        "article_desc": "Новый чип Blockscale ASIC обеспечивать скорость хеширования до 580 GH/s с энергоэффективностью 26 J/TH."
+    },
+    "530950": {
+        "article_date_timestamp": 1649099740.0,
+        "article_title": "Google не допустит на конкурс программистов из России и Белоруссии",
+        "article_url": "https://www.securitylab.ru/news/530950.php",
+        "article_desc": "Несмотря на то, что конкурс Google Summer of Code позиционируется как открытый для всех, в компании показали, что это не совсем так."
+    },
+    "530949": {
+        "article_date_timestamp": 1649092965.0,
+        "article_title": "Security-новости от Александра Антипова. Выпуск #55",
+        "article_url": "https://www.securitylab.ru/news/530949.php",
+        "article_desc": "Пятьдесят пятый выпуск security-новостей с Александром Антиповым"
+    },
+    "530965": {
+        "article_date_timestamp": 1649162163.0,
+        "article_title": "Минцифры предложило ввести оборотные штрафы для компаний, допустивших утечку персональных данных",
+        "article_url": "https://www.securitylab.ru/news/530965.php",
+        "article_desc": "Сегодняшние штрафы не решают проблемы. Ответственность за утерю, раскрытие информации о людях нерадивые работодатели по факту не чувствуют"
+    },
+    "530966": {
+        "article_date_timestamp": 1649163111.0,
+        "article_title": "Минцифры готовит к запуску маркетплейс отечественного ПО",
+        "article_url": "https://www.securitylab.ru/news/530966.php",
+        "article_desc": "Минцифры открывает прием заявок на размещение продуктов российского программного обеспечения."
+    },
+    "530977": {
+        "article_date_timestamp": 1649186776.0,
+        "article_title": "Власти Великобритании обвинили российские спецслужбы во вредоносных действиях в киберпространстве",
+        "article_url": "https://www.securitylab.ru/news/530977.php",
+        "article_desc": "Россия является одним из самых активных игроков в киберпространстве"
+    },
+    "530976": {
+        "article_date_timestamp": 1649186403.0,
+        "article_title": "Минцифры запустит штабы для борьбы с кибератаками",
+        "article_url": "https://www.securitylab.ru/news/530976.php",
+        "article_desc": "По вопросу минимизации угроз Минцифры работает с ФСБ, ФСТЭК и ЦБ."
+    },
+    "530975": {
+        "article_date_timestamp": 1649182590.0,
+        "article_title": "Positive Technologies объявляет финансовые результаты деятельности за 2021 год",
+        "article_url": "https://www.securitylab.ru/news/530975.php",
+        "article_desc": "Positive Technologies (эмитент ПАО «Группа Позитив» ) выполнила все финансовые цели на 2021 год."
+    },
+    "530968": {
+        "article_date_timestamp": 1649166568.0,
+        "article_title": "Британский ритейлер The Works закрыл магазины после кибератаки",
+        "article_url": "https://www.securitylab.ru/news/530968.php",
+        "article_desc": "В качестве меры предосторожности компания отключила доступ к компьютерным системам, включая электронную почту."
+    },
+    "530967": {
+        "article_date_timestamp": 1649164820.0,
+        "article_title": "Эксперты связали крупную шпионскую кампанию с китайскими хакерами Cicada",
+        "article_url": "https://www.securitylab.ru/news/530967.php",
+        "article_desc": "Большинство атакованных организаций расположены в США, Канаде, Гонконге, Турции, Израиле, Индии, Черногории и Италии."
+    },
+    "530978": {
+        "article_date_timestamp": 1649187458.0,
+        "article_title": "В Android-смартфонах обнаружили критическую уязвимость",
+        "article_url": "https://www.securitylab.ru/news/530978.php",
+        "article_desc": "Может ли ваш смартфон шпионить за вами?"
+    },
+    "531015": {
+        "article_date_timestamp": 1649321164.0,
+        "article_title": "Промышленный сектор в Европе находится под угрозой кибератак",
+        "article_url": "https://www.securitylab.ru/news/531015.php",
+        "article_desc": "Промышленные предприятия в Европе атакуют по крайней мере десять киберпреступных группировок."
+    },
+    "531014": {
+        "article_date_timestamp": 1649320612.0,
+        "article_title": "Роскомнадзор принял меры в  отношении Google LLC за несоблюдение российского законодательства",
+        "article_url": "https://www.securitylab.ru/news/531014.php",
+        "article_desc": "принято решение о введении мер понуждения информирующего и экономического характера."
+    },
+    "531013": {
+        "article_date_timestamp": 1649319000.0,
+        "article_title": "PT Application Inspector 4.0 доступен в веб-версии",
+        "article_url": "https://www.securitylab.ru/news/531013.php",
+        "article_desc": "Positive Technologies представила новую версию системы анализа защищенности кода приложений."
+    },
+    "531012": {
+        "article_date_timestamp": 1649316868.0,
+        "article_title": "Хакеры AridViper атаковали израильских чиновников",
+        "article_url": "https://www.securitylab.ru/news/531012.php",
+        "article_desc": "﻿Группировка нацелена на высокопоставленных лиц в оборонных, правоохранительных и экстренных службах."
+    },
+    "531011": {
+        "article_date_timestamp": 1649316867.0,
+        "article_title": "Ликвидирован связанный с хакерами Sandworm ботнет Cyclops Blink",
+        "article_url": "https://www.securitylab.ru/news/531011.php",
+        "article_desc": "Эксперты проанализировали вредонос, создали инструменты для его выявления и разработали методы его устранения."
+    },
+    "531010": {
+        "article_date_timestamp": 1649311642.0,
+        "article_title": "Сенаторы США просят Байдена защитить Украину от российских кибератак",
+        "article_url": "https://www.securitylab.ru/news/531010.php",
+        "article_desc": "Сенаторы направили в Белый дом письмо с опасениями относительно гипотетической возможности кибератаки России на Украину или партнеров США по НАТО."
+    },
+    "531008": {
+        "article_date_timestamp": 1649310835.0,
+        "article_title": "Эксперты рассказали, как хакеры могут легко атаковать критически важные бизнес-активы",
+        "article_url": "https://www.securitylab.ru/news/531008.php",
+        "article_desc": "94% критически важных активов могут быть скомпрометированы в течение четырех этапов после первоначальной точки взлома."
+    },
+    "531007": {
+        "article_date_timestamp": 1649307915.0,
+        "article_title": "Песков: Хакеры группировки Anonymous не могли взломать видеосистему Кремля",
+        "article_url": "https://www.securitylab.ru/news/531007.php",
+        "article_desc": "поскольку эта система является замкнутой"
+    },
+    "531009": {
+        "article_date_timestamp": 1649307623.0,
+        "article_title": "Обзор инцидентов безопасности за период с 31 марта по 6 апреля 2022 года",
+        "article_url": "https://www.securitylab.ru/news/531009.php",
+        "article_desc": "Краткий обзор главных событий в мире ИБ за неделю."
+    },
+    "531006": {
+        "article_date_timestamp": 1649263639.0,
+        "article_title": "В смартфонах Samsung обнаружена опасная уязвимость",
+        "article_url": "https://www.securitylab.ru/news/531006.php",
+        "article_desc": "Уязвимость позволяет получить полный контроль над уязвимым устройством"
+    },
+    "531005": {
+        "article_date_timestamp": 1649263238.0,
+        "article_title": "Разработан первый роутер на базе отечественного процессора Байкал",
+        "article_url": "https://www.securitylab.ru/news/531005.php",
+        "article_desc": "Это новое поколение российского телекоммуникационного оборудования"
+    },
+    "531004": {
+        "article_date_timestamp": 1649262298.0,
+        "article_title": "Учителя должны рассказать детям о пользе импортозамещения",
+        "article_url": "https://www.securitylab.ru/news/531004.php",
+        "article_desc": "В Минпросвещения подтвердили, что отправили методички"
+    },
+    "531003": {
+        "article_date_timestamp": 1649260509.0,
+        "article_title": "Positive Technologies выплатит акционерам половину чистой прибыли",
+        "article_url": "https://www.securitylab.ru/news/531003.php",
+        "article_desc": "Чистая прибыль компании по итогам 2021 года увеличилась на 27% и составила 1,9 млрд рублей."
+    },
+    "531001": {
+        "article_date_timestamp": 1649253356.0,
+        "article_title": "В ОС Android исправлено 44 уязвимости",
+        "article_url": "https://www.securitylab.ru/news/531001.php",
+        "article_desc": "Наиболее важным является исправление уязвимости повышения привилегий в Framework."
+    },
+    "530994": {
+        "article_date_timestamp": 1649249621.0,
+        "article_title": "Вымогатели Conti опубликовали данные, похищенные у гидравлического гиганта Parker Hannifin",
+        "article_url": "https://www.securitylab.ru/news/530994.php",
+        "article_desc": "Производитель подтвердил, что хакеры похитили некоторые данные, включая персональную информацию сотрудников."
+    },
+    "531044": {
+        "article_date_timestamp": 1649357235.0,
+        "article_title": "Совбез РФ: США готовятся к нанесению превентивных киберударов",
+        "article_url": "https://www.securitylab.ru/news/531044.php",
+        "article_desc": "США не используют обязательные для всех нормы международного права по информбезопасности,"
+    },
+    "531030": {
+        "article_date_timestamp": 1649336895.0,
+        "article_title": "Microsoft добавила в свою программу bug bounty локальные версии Exchange, SharePoint и Skype",
+        "article_url": "https://www.securitylab.ru/news/531030.php",
+        "article_desc": "Максимальная сумма вознаграждения за отчеты об обнаруженных опасных уязвимостях в этих продуктах составляет $26 тыс."
+    },
+    "531028": {
+        "article_date_timestamp": 1649334994.0,
+        "article_title": "Похитить биткойны легко, а вот отмыть – сложно",
+        "article_url": "https://www.securitylab.ru/news/531028.php",
+        "article_desc": "Для похищения криптовалюты и ее последующего отмывания требуются разные навыки."
+    },
+    "531032": {
+        "article_date_timestamp": 1649333827.0,
+        "article_title": "Новый инфостилер FFDroider похищает аккаунты в Facebook, Instagram и Twitter",
+        "article_url": "https://www.securitylab.ru/news/531032.php",
+        "article_desc": "FFDroider распространяется через взломанное легитимное ПО, бесплатные программы, игры и другие файлы, загружаемые с торрент-сайтов."
+    },
+    "531026": {
+        "article_date_timestamp": 1649329533.0,
+        "article_title": "Обнаружен криптомайнер Denonia для бессерверной среды AWS Lambda",
+        "article_url": "https://www.securitylab.ru/news/531026.php",
+        "article_desc": "Вредонос Denonia содержит настроенный вариант XMRig для майнинга криптовалюты Monero."
+    },
+    "531024": {
+        "article_date_timestamp": 1649328874.0,
+        "article_title": "Импортозамещение NGFW. Как мигрировать с Fortinet и Kerio Control на Ideco UTM",
+        "article_url": "https://www.securitylab.ru/news/531024.php",
+        "article_desc": "Приглашаем на вебинар о возможностях миграции на отечественный межсетевой экран нового поколения."
+    },
+    "531019": {
+        "article_date_timestamp": 1649326754.0,
+        "article_title": "Крупные компании продолжают отслеживать пользователей в Сети, но уже другими способами",
+        "article_url": "https://www.securitylab.ru/news/531019.php",
+        "article_desc": "Рекламный бизнес перешел к так называемому отслеживанию «первой стороной»."
+    },
+    "531068": {
+        "article_date_timestamp": 1649503682.0,
+        "article_title": "В кибератаках на энергосистему Индии заподозрены китайские хакеры",
+        "article_url": "https://www.securitylab.ru/news/531068.php",
+        "article_desc": "Атакованные системы расположены недалеко от индийско-китайской границы в Ладакхе."
+    },
+    "531067": {
+        "article_date_timestamp": 1649493982.0,
+        "article_title": "Официальный представитель МИД Захарова: судя по всему, YouTube себе приговор подписал",
+        "article_url": "https://www.securitylab.ru/news/531067.php",
+        "article_desc": ""
+    },
+    "531066": {
+        "article_date_timestamp": 1649481399.0,
+        "article_title": "ФСБ задержало жителя Ялты за кибератаки на российские информационные ресурсы",
+        "article_url": "https://www.securitylab.ru/news/531066.php",
+        "article_desc": "В Крыму задержали хакера, атаковавшего сайты российских СМИ по заказу Украины."
+    },
+    "531065": {
+        "article_date_timestamp": 1649480034.0,
+        "article_title": "Суд в США приговорил украинца к 5 годам тюрьмы за киберпреступления",
+        "article_url": "https://www.securitylab.ru/news/531065.php",
+        "article_desc": "Гражданин Украины Денис Ермак был участником хакерской группы FIN7, которую США считают ответственной за многочисленные взломы американских компаний."
+    },
+    "531064": {
+        "article_date_timestamp": 1649438537.0,
+        "article_title": "В cледующем году Илон Маск начнет производство роботов-гуманоидов",
+        "article_url": "https://www.securitylab.ru/news/531064.php",
+        "article_desc": ""
+    },
+    "531062": {
+        "article_date_timestamp": 1649423757.0,
+        "article_title": "Через неделю после взлома Axie Infinity хакеры взломали еще одну NFT-игру",
+        "article_url": "https://www.securitylab.ru/news/531062.php",
+        "article_desc": "Злоумышленник WonderHero отчеканил токены игры и смог вывести порядка $300 тыс."
+    },
+    "531059": {
+        "article_date_timestamp": 1649420830.0,
+        "article_title": "Microsoft захватила домены, использовавшиеся APT28 для атак на Украину",
+        "article_url": "https://www.securitylab.ru/news/531059.php",
+        "article_desc": "Компания получила контроль над семью доменами, являющимися частью вредоносной инфраструктуры."
+    },
+    "531060": {
+        "article_date_timestamp": 1649419956.0,
+        "article_title": "В Facebook резко возросло количество кампаний по дезинформации",
+        "article_url": "https://www.securitylab.ru/news/531060.php",
+        "article_desc": "Мошенники активизировались с началом военного конфликта на территории Украины."
+    },
+    "531058": {
+        "article_date_timestamp": 1649419465.0,
+        "article_title": "США вывел из-под санкций против России телекоммуникационное и интернет-оборудование",
+        "article_url": "https://www.securitylab.ru/news/531058.php",
+        "article_desc": "сняты ограничения на поставку в страну телекоммуникационного оборудования, а также «железа» для работы и пользования интернетом."
+    },
+    "531056": {
+        "article_date_timestamp": 1649413436.0,
+        "article_title": "Китайские хакеры атаковали украинские сайты в целях кибершпионажа",
+        "article_url": "https://www.securitylab.ru/news/531056.php",
+        "article_desc": "Инцидент предположительно был намного крупнее и затронул компьютерные системы в России, Беларуси и Польше."
+    },
+    "531054": {
+        "article_date_timestamp": 1649412351.0,
+        "article_title": "Блокчейн Juno взломан хакерами из-за уязвимости в смарт-контракте",
+        "article_url": "https://www.securitylab.ru/news/531054.php",
+        "article_desc": "Разработчики Juno планировали устранить даную уязвимость с помощью ближайшего обновления."
+    },
+    "531053": {
+        "article_date_timestamp": 1649412229.0,
+        "article_title": "Web-сервис Parrot заразил 16,5 тыс. сайтов для распространения вредоносного ПО",
+        "article_url": "https://www.securitylab.ru/news/531053.php",
+        "article_desc": "Parrot используется для проведения вредоносных кампаний, в ходе которой потенциальные жертвы перенаправляются на фишинговые сайты."
+    },
+    "531052": {
+        "article_date_timestamp": 1649409269.0,
+        "article_title": "Лаборатория Касперского рассказала, что ей удалось узнать о вымогателях BlackCat",
+        "article_url": "https://www.securitylab.ru/news/531052.php",
+        "article_desc": "Согласно последнему отчету ЛК, вымогатели заразили большое количество корпоративных жертв."
+    },
+    "531051": {
+        "article_date_timestamp": 1649407555.0,
+        "article_title": "Google добавит пошаговое руководство по настройкам конфиденциальности в Chrome",
+        "article_url": "https://www.securitylab.ru/news/531051.php",
+        "article_desc": "﻿Новое руководство по конфиденциальности будет доступно в ближайшие недели."
+    },
+    "531050": {
+        "article_date_timestamp": 1649406295.0,
+        "article_title": "7 антивирусов из Google Play Store распространяли банковский троян SharkBot",
+        "article_url": "https://www.securitylab.ru/news/531050.php",
+        "article_desc": "До того, как Google удалила вредонос из своего магазина приложений, его скачали 15 тыс. раз."
+    }
+}

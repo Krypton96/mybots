@@ -1,0 +1,9 @@
+aiogram
+asyncio
+asyncpg
+beautifulsoup4
+bs4
+lxml
+pycoingecko
+python-dotenv
+requests
